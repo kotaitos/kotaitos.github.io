@@ -1,1 +1,0 @@
-# kotaitos.github.io test
