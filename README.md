@@ -1,2 +1,1 @@
 # kotaitos.github.io
-idnex
